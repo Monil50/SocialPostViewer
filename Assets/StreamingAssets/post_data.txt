@@ -1,0 +1,26 @@
+﻿[
+    {
+      "username": "Florence Pugh",
+      "profilePic": "profile1.png",
+      "content": "This is my first post! Feeling great today.",
+      "likes": 10
+    },
+    {
+      "username": "Monica Barbaro",
+      "profilePic": "profile2.png",
+      "content": "Enjoying a beautiful sunset! #nature",
+      "likes": 25
+    },
+    {
+      "username": "Hailee Steinfeld",
+      "profilePic": "profile3.png",
+      "content": "Just finished a challenging coding session. Time for a break!",
+      "likes": 42
+    },
+    {
+      "username": "Dua Lipa",
+      "profilePic": "profile4.png",
+      "content": "Dreaming of my next adventure. Where should I go?",
+      "likes": 18
+    }
+  ]

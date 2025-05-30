@@ -1,0 +1,38 @@
+{"frames": [
+[
+    {
+      "username": "John Doe",
+      "profilePic": "profile1.png",
+      "content": "This is my first post! Feeling great today.",
+      "likes": 10
+    },
+    {
+      "username": "Jane Smith",
+      "profilePic": "profile2.png",
+      "content": "Enjoying a beautiful sunset! #nature",
+      "likes": 25
+    },
+    {
+      "username": "CodingGuru",
+      "profilePic": "profile3.png",
+      "content": "Just finished a challenging coding session. Time for a break!",
+      "likes": 42
+    },
+    {
+      "username": "TravelBug",
+      "profilePic": "profile4.png",
+      "content": "Dreaming of my next adventure. Where should I go?",
+      "likes": 18
+    }
+  ]
+],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "EmojiOne.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:196a26a2e149d875b91ffc8fa3581e76:fc928c7e275404b7e0649307410475cb:424723c3774975ddb2053fd5c4b85f6e$"
+}
+}
